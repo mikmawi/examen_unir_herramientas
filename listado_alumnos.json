@@ -5,34 +5,34 @@
     },
     {"alumno":"Juan",
      "nota":4,
-     "ranking":150
+     "ranking":220
     },
     {"alumno":"Katy",
      "nota":8.02,
-     "ranking":210
+     "ranking":60
     },  
     {"alumno":"Danilo",
      "nota":7.5,
-     "ranking":270
+     "ranking":90
     },
     {"alumno":"Pedro",
      "nota":6.4,
-     "ranking":330
+     "ranking":120
     },
     {"alumno":">Tatiana",
      "nota":5.9,
-     "ranking":350
+     "ranking":150
     },
     {"alumno":"Alberto",
      "nota":4.2,
-     "ranking":380
+     "ranking":210
     },
     {"alumno":"Edison",
      "nota":2.1,
-     "ranking":390
+     "ranking":305
     },
     {"alumno":"Emilia",
      "nota":1.7,
-     "ranking":400
+     "ranking":0
     }
 ]
